@@ -21,7 +21,9 @@ This is a shell script (http://www.freeos.com/guides/lsst/) to combine a few pro
 4.	It will prompt you to enter the following:
 
   a.	"Enter the path to the directory where your files are located and press ENTER:"  Enter the full path to the directory where your samples are located.
+  
   b.	"common name of your sample file and press ENTER:"  If you have 2 samples, they should be named as  (for e.g.,) sample_1, sample _2 . The common name in this case is “sample_” (No quotations). 
+  
   c.	"Enter number of samples and press ENTER". In above example 2. 
 
 5.	The script will produce intermediate files in separate folders and each named with sample name. 
